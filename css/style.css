@@ -71,19 +71,18 @@ header {
     font-weight: 700;
     font-size: 60px;
     font-weight: 400; }
-  .content h2 {
-    font-family: 'Flow';
-    font-size: 160px;
-    text-transform: uppercase;
-    margin-top: 0;
-    line-height: 0;
-    color: #ffc000;
-    letter-spacing: 3px;
-    margin-bottom: 100px; }
+    .content h1 span {
+      font-family: 'Flow';
+      font-size: 160px;
+      text-transform: uppercase;
+      line-height: .5;
+      color: #ffc000;
+      display: block; }
   .content p {
     color: #fff;
     font-size: 24px;
-    line-height: 1.5; }
+    line-height: 1.5;
+    padding-top: 40px; }
 
 .prev,
 .next {
